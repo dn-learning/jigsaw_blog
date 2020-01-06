@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Blog Starter Template</title>
-    <link href="https://github.com/dn-learning/jigsaw_blog" />
+    <link href="https://github.com/dn-learning/jigsaw_blog/" />
     <link type="application/atom+xml" rel="self" href="https://github.com/dn-learning/jigsaw_blog/blog/feed.atom" />
-    <updated>2020-01-06T23:14:09+00:00</updated>
+    <updated>2020-01-06T23:20:49+00:00</updated>
     <id>https://github.com/dn-learning/jigsaw_blog/blog/feed.atom</id>
     <author>
         <name>Author Name</name>
