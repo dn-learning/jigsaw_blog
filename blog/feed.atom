@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Blog Starter Template</title>
-    <link href="https://github.com/dn-learning/jigsaw_blog/" />
-    <link type="application/atom+xml" rel="self" href="https://github.com/dn-learning/jigsaw_blog/blog/feed.atom" />
-    <updated>2020-01-06T23:54:00+00:00</updated>
-    <id>https://github.com/dn-learning/jigsaw_blog/blog/feed.atom</id>
+    <link href="https://dn-learning.github.io/jigsaw_blog/" />
+    <link type="application/atom+xml" rel="self" href="https://dn-learning.github.io/jigsaw_blog/blog/feed.atom" />
+    <updated>2020-01-07T00:17:59+00:00</updated>
+    <id>https://dn-learning.github.io/jigsaw_blog/blog/feed.atom</id>
     <author>
         <name>Author Name</name>
     </author>
                 <entry>
-    <id>https://github.com/dn-learning/jigsaw_blog/blog/getting-started</id>
-    <link type="text/html" rel="alternate" href="https://github.com/dn-learning/jigsaw_blog/blog/getting-started" />
+    <id>https://dn-learning.github.io/jigsaw_blog/blog/getting-started</id>
+    <link type="text/html" rel="alternate" href="https://dn-learning.github.io/jigsaw_blog/blog/getting-started" />
     <title>Getting Started</title>
     <published>2018-12-25T00:00:00+00:00</published>
     <updated>2018-12-25T00:00:00+00:00</updated>
@@ -62,8 +62,8 @@ featured: true
 npm run dev</code></pre>    ]]></content>
 </entry>
             <entry>
-    <id>https://github.com/dn-learning/jigsaw_blog/blog/customizing-your-site</id>
-    <link type="text/html" rel="alternate" href="https://github.com/dn-learning/jigsaw_blog/blog/customizing-your-site" />
+    <id>https://dn-learning.github.io/jigsaw_blog/blog/customizing-your-site</id>
+    <link type="text/html" rel="alternate" href="https://dn-learning.github.io/jigsaw_blog/blog/customizing-your-site" />
     <title>Customizing Your Site</title>
     <published>2018-12-24T00:00:00+00:00</published>
     <updated>2018-12-24T00:00:00+00:00</updated>
@@ -120,8 +120,8 @@ npm run dev</code></pre>    ]]></content>
 }</code></pre>    ]]></content>
 </entry>
             <entry>
-    <id>https://github.com/dn-learning/jigsaw_blog/blog/custom-404-page</id>
-    <link type="text/html" rel="alternate" href="https://github.com/dn-learning/jigsaw_blog/blog/custom-404-page" />
+    <id>https://dn-learning.github.io/jigsaw_blog/blog/custom-404-page</id>
+    <link type="text/html" rel="alternate" href="https://dn-learning.github.io/jigsaw_blog/blog/custom-404-page" />
     <title>Custom 404 Pages</title>
     <published>2018-12-23T00:00:00+00:00</published>
     <updated>2018-12-23T00:00:00+00:00</updated>
@@ -155,8 +155,8 @@ Depending on where your site is hosted, you may need to configure......</summary
 <p>Depending on where your site is hosted, you may need to configure your server to use the custom 404 page. For more details, visit the <a href="https://jigsaw.tighten.co/docs/custom-404-page/">Jigsaw documentation about configuring a custom 404 page</a>.</p>    ]]></content>
 </entry>
             <entry>
-    <id>https://github.com/dn-learning/jigsaw_blog/blog/fuse-search</id>
-    <link type="text/html" rel="alternate" href="https://github.com/dn-learning/jigsaw_blog/blog/fuse-search" />
+    <id>https://dn-learning.github.io/jigsaw_blog/blog/fuse-search</id>
+    <link type="text/html" rel="alternate" href="https://dn-learning.github.io/jigsaw_blog/blog/fuse-search" />
     <title>Fuse Search</title>
     <published>2018-12-22T00:00:00+00:00</published>
     <updated>2018-12-22T00:00:00+00:00</updated>
@@ -170,8 +170,8 @@ Depending on where your site is hosted, you may need to configure......</summary
 <p>If you'd like to customize the generation of your search index, take a look at the <code>handle</code> method of the <code>GenerateIndex.php</code> file.</p>    ]]></content>
 </entry>
             <entry>
-    <id>https://github.com/dn-learning/jigsaw_blog/blog/mailchimp-newsletters</id>
-    <link type="text/html" rel="alternate" href="https://github.com/dn-learning/jigsaw_blog/blog/mailchimp-newsletters" />
+    <id>https://dn-learning.github.io/jigsaw_blog/blog/mailchimp-newsletters</id>
+    <link type="text/html" rel="alternate" href="https://dn-learning.github.io/jigsaw_blog/blog/mailchimp-newsletters" />
     <title>Mailchimp Newsletters</title>
     <published>2018-11-21T00:00:00+00:00</published>
     <updated>2018-11-21T00:00:00+00:00</updated>
@@ -208,8 +208,8 @@ To begin accepting......</summary>
 <p><a href="https://mailchimp.com/help/host-your-own-signup-forms/#Edit_your_Custom_Signup_Form">See how to get your Mailchimp list URL.</a></p>    ]]></content>
 </entry>
             <entry>
-    <id>https://github.com/dn-learning/jigsaw_blog/blog/my-first-blog-post</id>
-    <link type="text/html" rel="alternate" href="https://github.com/dn-learning/jigsaw_blog/blog/my-first-blog-post" />
+    <id>https://dn-learning.github.io/jigsaw_blog/blog/my-first-blog-post</id>
+    <link type="text/html" rel="alternate" href="https://dn-learning.github.io/jigsaw_blog/blog/my-first-blog-post" />
     <title>My First Blog Post</title>
     <published>2017-03-23T00:00:00+00:00</published>
     <updated>2017-03-23T00:00:00+00:00</updated>
